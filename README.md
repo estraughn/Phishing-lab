@@ -19,6 +19,8 @@ The phishing lab focused on how to identify and analyze phishing attacks, emphas
 
 -Implementing best practices for phishing attack prevention and user awareness training
 
+-Utilizing sandbox environments to safely analyze and examine phishing payloads
+
 
 
 ### Tools Used
