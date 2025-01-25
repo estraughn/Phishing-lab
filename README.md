@@ -25,14 +25,13 @@ The phishing lab focused on how to identify and analyze phishing attacks, emphas
 
 ### Tools Used
 
-- 
+- Sublime Text
+- Thunderbird
 
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+1. Analyze the email header utilizng Sublime Text to determine the emails sender, domain, creation time and date, and other IOC
 
-Every screenshot should have some text explaining what the screenshot is about.
+*Ref 1: ![Screenshot 2025-01-25 115042](https://github.com/user-attachments/assets/6457b9f6-e234-48a0-8af1-743ac92b2a71)
 
-Example below.
-
-*Ref 1: Network Diagram*
+2. 
