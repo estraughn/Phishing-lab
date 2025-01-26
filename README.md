@@ -7,19 +7,19 @@ The phishing lab focused on how to identify and analyze phishing attacks, emphas
 
 ### Skills Learned
 
--Identifying common phishing tactics, such as email spoofing and social engineering
+- Identifying common phishing tactics, such as email spoofing and social engineering
 
--Analyzing phishing emails to extract key indicators of compromise (IOCs)
+- Analyzing phishing emails to extract key indicators of compromise (IOCs)
 
--Using email header analysis to detect suspicious activity
+- Using email header analysis to detect suspicious activity
 
--Leveraging security tools to validate and mitigate phishing threats
+- Leveraging security tools to validate and mitigate phishing threats
 
--Recognizing red flags in URLs, attachments, and content within phishing messages
+- Recognizing red flags in URLs, attachments, and content within phishing messages
 
--Implementing best practices for phishing attack prevention and user awareness training
+- Implementing best practices for phishing attack prevention and user awareness training
 
--Utilizing sandbox environments to safely analyze and examine phishing payloads
+- Utilizing sandbox environments to safely analyze and examine phishing payloads
 
 
 
