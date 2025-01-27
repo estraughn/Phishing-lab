@@ -56,12 +56,11 @@ The phishing lab focused on how to identify and analyze phishing attacks, emphas
 *Ref 3.4: ![Screenshot 2025-01-25 165343](https://github.com/user-attachments/assets/7a3272cc-bcf2-4a24-b52a-3c7d2fbea659)
 *Ref 3.5: ![Screenshot 2025-01-25 165700](https://github.com/user-attachments/assets/62c8d79c-421a-48ee-9dd6-5a4d0cfbeb85)
 
-4. On a another sample email I was able to analyze a malicious attachment by first saving the attachment to a designated file on my ubuntu VM for analysis. I then opened the terminal and ran the to obtain the SHA256, SHA1, and MD5 hashes of the email attachment. I then ran the SHA256 hash through Virus Total to find out if these are known malicious hashes. I then took the malicious file and ran it through the Hybrid Analysis sandbox environement to see how the malware behaves when activated and obtain a malware analysis report. I then took the associated CVE from the malware analysis report and looked it up on cve.mitre.org to find out the malwares attack chain.
+4. On a another sample email I was able to analyze a malicious attachment by first saving the attachment to a designated file on my ubuntu VM for analysis. I then opened the terminal and ran the command sha256sum, sha1sum, and md5sum followed by the  file name quotation[.]iso to obtain the hash values of the email attachment. I then ran the SHA256 hash through Virus Total to find out if these are known malicious hashes. I then took the malicious file and ran it through the Hybrid Analysis sandbox environement to see how the malware behaves when activated and obtain a malware analysis report. I then took the associated CVE from the malware analysis report and looked it up on cve.mitre.org to find out the malwares attack chain.
 
 *Ref 4.1:![Screenshot 2025-01-25 171058](https://github.com/user-attachments/assets/29613146-d6d7-4857-9a0a-0869d7691de1)
-*Ref 4.2: ![Screenshot 2025-01-25 171637](https://github.com/user-attachments/assets/5e98b4eb-c817-425e-9a24-09cb740dbe53)
-*Ref 4.3:![Screenshot 2025-01-25 172248](https://github.com/user-attachments/assets/c8536172-1500-462d-96a6-e518920094b4)
-*Ref 4.4:![Screenshot 2025-01-25 174022](https://github.com/user-attachments/assets/712edb6a-83d7-4c4a-b317-bd78465f4442)
+*Ref 4.2:![Screenshot 2025-01-25 172248](https://github.com/user-attachments/assets/c8536172-1500-462d-96a6-e518920094b4)
+*Ref 4.3:![Screenshot 2025-01-25 174022](https://github.com/user-attachments/assets/712edb6a-83d7-4c4a-b317-bd78465f4442)
 
 5. The next steps after the analysis is complete is to begin conducting reactive phishing defense which consists of the following:
 
