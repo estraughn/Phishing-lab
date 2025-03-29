@@ -80,7 +80,7 @@ The phishing lab focused on how to identify and analyze phishing attacks, emphas
 
    -communicate the situation to affected users and stakeholders
 
-   -Lastly is end user education to help aid in the prevention of future incidents
+   -Last thing is to provide end user education to help aid in the prevention of future incidents
 
 6. Here are also some steps that can be taken to bolster proactive phishing defense:
 
